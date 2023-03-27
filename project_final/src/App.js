@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          An atom does not look like this.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FQuantum_mechanics&psig=AOvVaw14J7191xObQ8AkIROO_MjU&ust=1679987427287000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCWjf_G-_0CFQAAAAAdAAAAABAJ"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          It looks like this
         </a>
       </header>
     </div>
